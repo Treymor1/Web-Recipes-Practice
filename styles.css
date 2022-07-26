@@ -7,7 +7,12 @@ h1 {
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
 }
-.Recipes {
+.Ingredents {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Recipes,
+.Description,
+.Steps{
     font-family: Italic;
     font-weight: bold;
 }
