@@ -1,5 +1,19 @@
+body{
+    background: lightblue;
+}
+
 h1 {
     color: blue;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
+}
+.Recipes {
+    font-family: Italic;
+    font-weight: bold;
+}
+.Italian {
+    color: green;
+}
+.America {
+    color: violet;
 }
