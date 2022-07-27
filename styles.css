@@ -18,7 +18,19 @@ h1 {
 }
 .Italian {
     color: green;
+    padding: 10px;
+    border: solid green 2px;
+    margin: 20px;
+
+}
+.Lsg {
+    padding-right: 15px;
 }
 .America {
     color: violet;
+    width: 64px;
+    padding: 10px;
+    border: solid violet 2px;
+    margin: 20px;
+    display: inline-flex;
 }
